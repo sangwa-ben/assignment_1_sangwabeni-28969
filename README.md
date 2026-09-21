@@ -261,7 +261,9 @@ The above-average CTE returns Amina Johnson, Daniel Okafor, Brian Lee, and Carla
 | 2025-01-12 | 1003 | 13.65 | 55.06 |
 | 2025-04-20 | 1015 | 7.98 | 289.29 |
 
-Screenshots of the database tables and query results can be added if required by the instructor.
+## Screenshots
+
+The [`screenshots`](screenshots/) folder contains five phpMyAdmin screenshots showing the `sunrise_supermarket` database, table relationships, and query work.
 
 ## Business Interpretation
 
