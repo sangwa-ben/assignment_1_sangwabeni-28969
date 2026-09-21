@@ -1,11 +1,11 @@
-# assignment_1_sangwabeni-28696
+# assignment_1_sangwabeni-28969
 
 ## Student Information
 
 - Name: **Sangwa Beni**
-- Student ID: **28696**
+- Student ID: **28969**
 - DBMS used: **MySQL 8.0 through XAMPP/phpMyAdmin**
-- Repository name: `assignment_1_sangwabeni-28696`
+- Repository name: `assignment_1_sangwabeni-28969`
 
 ## Summary
 
@@ -279,7 +279,7 @@ Amina Johnson is the highest-spending customer. Farah Khan has not placed an ord
 - Confirm that XAMPP MySQL is running.
 - Confirm that `sunrise_supermarket` appears in phpMyAdmin.
 - Capture screenshots if required.
-- Commit and push the repository as `assignment_1_sangwabeni-28696`.
+- Commit and push the repository as `assignment_1_sangwabeni-28969`.
 
 ```bash
 git add .
