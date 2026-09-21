@@ -263,7 +263,31 @@ The above-average CTE returns Amina Johnson, Daniel Okafor, Brian Lee, and Carla
 
 ## Screenshots
 
-The [`screenshots`](screenshots/) folder contains five phpMyAdmin screenshots showing the `sunrise_supermarket` database, table relationships, and query work.
+The screenshots below show the `sunrise_supermarket` database and its table results in phpMyAdmin.
+
+### Database structure
+
+![Database structure](screenshots/screenshot-1.png)
+
+### Customers table
+
+![Customers table](screenshots/screenshot-2.png)
+
+### Orders table
+
+![Orders table](screenshots/screenshot-3.png)
+
+### Order items table
+
+![Order items table](screenshots/screenshot-4.png)
+
+### Products table
+
+![Products table](screenshots/screenshot-5.png)
+
+![Query result](screenshots/screenshot-6.png)
+
+![Query result](screenshots/screenshot-7.png)
 
 ## Business Interpretation
 
