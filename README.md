@@ -27,7 +27,7 @@ mysql -u root -p < xampp_data.sql
 mysql -u root -p < xampp_queries.sql
 ```
 
-## Business Scenario
+## Business case
 
 Sunrise Supermarket sells products to customers, and each order can contain several items. Management wants to understand who its customers are, what they buy, which customers spend the most, and how sales change over time.
 
